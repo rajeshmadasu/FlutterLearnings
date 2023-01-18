@@ -9,3 +9,7 @@ https://medium.com/flutter-community/basics-of-neumorphism-in-flutter-f4d678ef08
 Custom shaped AppBar as seen in the “Bunny Search” app
 Usage : To implement custom appbar using silvers 
 https://medium.com/flutter-community/custom-shaped-appbar-as-seen-in-the-bunny-search-app-6312d067485c
+
+
+A command-line tool which simplifies the task of updating your Flutter app's launcher icon.
+https://pub.dev/packages/flutter_launcher_icons
