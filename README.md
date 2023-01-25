@@ -1,5 +1,5 @@
 # FlutterLearnings
-This is a simple repo with good flutter tutorials , have going while learning flutter and developing the apps.
+This is a simple repo with good flutter tutorials , that i found while i am learning flutter and developing the apps.
 
 Basics of Neumorphism in Flutter
 
